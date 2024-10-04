@@ -1,0 +1,52 @@
+body {
+    background-color: white;
+  }
+nav {
+    background-color: black;
+    text-align: left;
+    padding: 15px;
+
+}
+
+#shelly {
+
+    height: 150px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(192, 255, 255);
+
+}
+
+#shelly img {
+    width: 100px;
+    align-items: left;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
+
+#btn {
+    background-color: aqua;
+}
+
+#btn2 {
+    background-color: aqua;
+}
+
+#fondo{
+    background-image: url('assets\img\playa.jpg');
+  }
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 20px;
+}
